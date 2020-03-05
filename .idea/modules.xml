@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/business/business.iml" filepath="$PROJECT_DIR$/business/business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-reg/business-reg.iml" filepath="$PROJECT_DIR$/business/business-reg/business-reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons-dto/commons-dto.iml" filepath="$PROJECT_DIR$/commons/commons-dto/commons-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/dependencies.iml" filepath="$PROJECT_DIR$/dependencies/dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/ums-admin-provider-api/ums-admin-provider-api.iml" filepath="$PROJECT_DIR$/provider/ums-admin-provider-api/ums-admin-provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/ums-admin-provider-service/ums-admin-provider-service.iml" filepath="$PROJECT_DIR$/provider/ums-admin-provider-service/ums-admin-provider-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="D:/development_tools/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YhBpOYNqReEXMk9RXsvzCJ3Pdt" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.UmsAdminProviderApplication">
+    <configuration name="BusinessRegApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="business-reg" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xjm.myshop.plus.business.BusinessRegApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UmsAdminProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ums-admin-provider-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xjm.myshop.plus.provider.UmsAdminProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1583385188978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583385188978" />
+  </component>
+</project>
