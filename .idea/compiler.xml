@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ums-admin-provider-service" />
         <module name="business-reg" />
+        <module name="business-oauth2" />
         <module name="ums-admin-provider-api" />
         <module name="commons-dto" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="business" target="1.8" />
+      <module name="business-oauth2" target="1.8" />
       <module name="business-reg" target="1.8" />
       <module name="commons" target="1.8" />
       <module name="commons-dto" target="1.8" />
@@ -26,6 +28,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="business-oauth2" options="-parameters" />
       <module name="business-reg" options="-parameters" />
       <module name="commons-dto" options="-parameters" />
       <module name="ums-admin-provider-api" options="-parameters" />
