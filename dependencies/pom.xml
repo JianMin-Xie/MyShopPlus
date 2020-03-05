@@ -7,6 +7,10 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <properties>
+        <!-- Commons -->
+        <okhttp3.version>4.0.1</okhttp3.version>
+
+        <!-- Native Cloud -->
         <dubbo.version>2.7.2</dubbo.version>
         <dubbo-kryo.version>2.7.2</dubbo-kryo.version>
         <dubbo-actuator.version>2.7.1</dubbo-actuator.version>
@@ -23,6 +27,14 @@
     </licenses>
     <dependencyManagement>
         <dependencies>
+            <!-- OKHttp Begin -->
+            <dependency>
+                <groupId>com.squareup.okhttp3</groupId>
+                <artifactId>okhttp</artifactId>
+                <version>${okhttp3.version}</version>
+            </dependency>
+            <!-- OKHttp End -->
+
             <!-- Spring Cloud -->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>

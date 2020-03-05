@@ -2,43 +2,148 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0ee5f60-a1c2-421c-9966-4843953ca3eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/business/business-oauth2/business-oauth2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-oauth2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/BusinessOAuth2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/configure/AuthorizationServerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/configure/WebSecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-oauth2/src/test/java/com/xjm/myshop/plus/business/BusinessOauth2Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-reg/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-reg/target/classes/com/xjm/myshop/plus/business/BusinessRegApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-reg/target/classes/com/xjm/myshop/plus/business/controller/EchoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-reg/target/classes/com/xjm/myshop/plus/business/controller/RegController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commons/commons-dto/target/classes/com/xjm/myshop/plus/commons/dto/ResponseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/api/EchoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/api/UmsAdminService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/domain/UmsAdmin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/com/xjm/myshop/plus/provider/UmsAdminProviderApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/com/xjm/myshop/plus/provider/configure/UmsAdminResourceConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/com/xjm/myshop/plus/provider/mapper/UmsAdminMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/com/xjm/myshop/plus/provider/service/EchoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/com/xjm/myshop/plus/provider/service/UmsAdminServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/mapper/UmsAdminMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/tk/mybatis/mapper/MyMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/test-classes/com/xjm/myshop/plus/provider/tests/UmsAdminTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xjm/myshop/plus/business/BusinessOAuth2Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xjm/myshop/plus/business/configure/AuthorizationServerConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xjm/myshop/plus/business/configure/WebSecurityConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xjm/myshop/plus/business/BusinessOauth2Tests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_2_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_2_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/dto/LoginParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/src/test/java/com/xjm/myshop/plus/business/OKHttp3Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/BusinessOAuth2Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/configure/AuthorizationServerConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/configure/WebSecurityConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/dto/LoginParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/target/test-classes/com/xjm/myshop/plus/business/BusinessOauth2Tests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/business-oauth2/target/test-classes/com/xjm/myshop/plus/business/OKHttp3Tests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons-utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons-utils/src/main/java/com/xjm/myshop/plus/commons/utils/MapperUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons-utils/src/main/java/com/xjm/myshop/plus/commons/utils/OkHttpClientUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons-utils/target/classes/com/xjm/myshop/plus/commons/utils/MapperUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons-utils/target/classes/com/xjm/myshop/plus/commons/utils/MapperUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons-utils/target/classes/com/xjm/myshop/plus/commons/utils/OkHttpClientUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons-utils/target/classes/com/xjm/myshop/plus/commons/utils/OkHttpClientUtil$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons-utils/target/classes/com/xjm/myshop/plus/commons/utils/OkHttpClientUtil$MyNetCall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons-utils/target/classes/com/xjm/myshop/plus/commons/utils/OkHttpClientUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.env.staging" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README-zh.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/build/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mock/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mock/mock-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mock/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mock/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/api/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/api/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/404_images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/404_images/404_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Breadcrumb/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Hamburger/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/SvgIcon/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/example.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/eye-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/form.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/nested.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/password.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/tree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svg/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/icons/svgo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/components/AppMain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/components/Navbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/components/Sidebar/FixiOSBug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/components/Sidebar/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/components/Sidebar/Link.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/components/Sidebar/Logo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/components/Sidebar/SidebarItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/components/Sidebar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/layout/mixin/ResizeHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/modules/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/modules/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/modules/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/element-ui.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/utils/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/utils/get-page-title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/utils/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/404.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/dashboard/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/form/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/login/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/nested/menu1/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/nested/menu1/menu1-1/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/nested/menu1/menu1-2/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/nested/menu1/menu1-2/menu1-2-1/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/nested/menu1/menu1-2/menu1-2-2/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/nested/menu1/menu1-3/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/nested/menu2/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/table/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/tree/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/unit/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/unit/components/Breadcrumb.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/unit/components/Hamburger.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/unit/components/SvgIcon.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/unit/utils/formatTime.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/unit/utils/parseTime.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/unit/utils/validate.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/vue.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/business-oauth2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/business-oauth2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/configure/WebSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/configure/WebSecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons/commons-dto/src/main/java/com/xjm/myshop/plus/commons/dto/ResponseResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-dto/src/main/java/com/xjm/myshop/plus/commons/dto/ResponseResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons/commons-dto/target/classes/com/xjm/myshop/plus/commons/dto/ResponseResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-dto/target/classes/com/xjm/myshop/plus/commons/dto/ResponseResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/commons/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xjm/myshop/plus/business/BusinessOAuth2Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xjm/myshop/plus/business/configure/AuthorizationServerConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xjm/myshop/plus/business/configure/WebSecurityConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xjm/myshop/plus/business/BusinessOauth2Tests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,10 +217,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\workspace\github\MyShopPlus" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.BusinessOAuth2Application">
     <configuration name="BusinessOauth2Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -149,6 +260,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OKHttp3Tests.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="business-oauth2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xjm.myshop.plus.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xjm.myshop.plus.business" />
+      <option name="MAIN_CLASS_NAME" value="com.xjm.myshop.plus.business.OKHttp3Tests" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OKHttp3Tests.testPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="business-oauth2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xjm.myshop.plus.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xjm.myshop.plus.business" />
+      <option name="MAIN_CLASS_NAME" value="com.xjm.myshop.plus.business.OKHttp3Tests" />
+      <option name="METHOD_NAME" value="testPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OKHttp3Tests.testUtilPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="business-oauth2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xjm.myshop.plus.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xjm.myshop.plus.business" />
+      <option name="MAIN_CLASS_NAME" value="com.xjm.myshop.plus.business.OKHttp3Tests" />
+      <option name="METHOD_NAME" value="testUtilPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BusinessOAuth2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="business-oauth2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xjm.myshop.plus.business.BusinessOAuth2Application" />
@@ -172,6 +331,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OKHttp3Tests.testUtilPost" />
+        <item itemvalue="JUnit.OKHttp3Tests.testPost" />
+        <item itemvalue="JUnit.OKHttp3Tests.testGet" />
         <item itemvalue="JUnit.BusinessOauth2Tests.testPasswordEncoder" />
         <item itemvalue="JUnit.BusinessOauth2Tests" />
       </list>
@@ -200,7 +362,12 @@
       <option name="presentableId" value="Default" />
       <updated>1583385127339</updated>
       <workItem from="1583385132277" duration="5286000" />
-      <workItem from="1583391055809" duration="1027000" />
+      <workItem from="1583391055809" duration="8747000" />
+      <workItem from="1583400576262" duration="851000" />
+      <workItem from="1583401633607" duration="5285000" />
+      <workItem from="1583407815615" duration="57000" />
+      <workItem from="1583408195846" duration="1040000" />
+      <workItem from="1583409277220" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="用户注册服务">
       <created>1583385396154</created>
@@ -209,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583385396154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="用户认证服务">
+      <created>1583392552465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583392552465</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,17 +404,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="用户注册服务" />
-    <option name="LAST_COMMIT_MESSAGE" value="用户注册服务" />
+    <MESSAGE value="用户认证服务" />
+    <option name="LAST_COMMIT_MESSAGE" value="用户认证服务" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1583388052024">
+    <state x="278" y="22" key="#Custom_Plugin_Repositories" timestamp="1583409318370">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583388052024" />
-    <state x="134" y="0" key="CommitChangelistDialog2" timestamp="1583385391042">
+    <state x="278" y="22" key="#Custom_Plugin_Repositories/0.0.1366.728@0.0.1366.728" timestamp="1583409318370" />
+    <state x="278" y="22" key="#HTTP_Proxy" timestamp="1583409405179">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="134" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583385391042" />
+    <state x="278" y="22" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1583409405179" />
+    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583393353680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583393353680" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1583396206888">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583396206888" />
+    <state x="134" y="0" key="CommitChangelistDialog2" timestamp="1583409839075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="134" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583409839075" />
+    <state x="119" y="55" key="DiffContextDialog" timestamp="1583392488495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="119" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1583392488495" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1583385188978">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -249,45 +440,45 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="558" y="254" width="273" height="288" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1583385787715" />
-    <state width="1323" height="546" key="GridCell.Tab.0.bottom" timestamp="1583391419764">
+    <state width="1323" height="504" key="GridCell.Tab.0.bottom" timestamp="1583407811580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="546" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583391419764" />
-    <state width="1323" height="546" key="GridCell.Tab.0.center" timestamp="1583391419764">
+    <state width="1323" height="504" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583407811580" />
+    <state width="1323" height="504" key="GridCell.Tab.0.center" timestamp="1583407811579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="546" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583391419764" />
-    <state width="1323" height="546" key="GridCell.Tab.0.left" timestamp="1583391419763">
+    <state width="1323" height="504" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583407811579" />
+    <state width="1323" height="504" key="GridCell.Tab.0.left" timestamp="1583407811579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="546" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583391419763" />
-    <state width="1323" height="546" key="GridCell.Tab.0.right" timestamp="1583391419764">
+    <state width="1323" height="504" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583407811579" />
+    <state width="1323" height="504" key="GridCell.Tab.0.right" timestamp="1583407811579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="546" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583391419764" />
-    <state width="1323" height="546" key="GridCell.Tab.1.bottom" timestamp="1583391419765">
+    <state width="1323" height="504" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583407811579" />
+    <state width="1323" height="504" key="GridCell.Tab.1.bottom" timestamp="1583407811576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="546" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583391419765" />
-    <state width="1323" height="546" key="GridCell.Tab.1.center" timestamp="1583391419764">
+    <state width="1323" height="504" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583407811576" />
+    <state width="1323" height="504" key="GridCell.Tab.1.center" timestamp="1583407811575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="546" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583391419764" />
-    <state width="1323" height="546" key="GridCell.Tab.1.left" timestamp="1583391419764">
+    <state width="1323" height="504" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583407811575" />
+    <state width="1323" height="504" key="GridCell.Tab.1.left" timestamp="1583407811575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="546" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583391419764" />
-    <state width="1323" height="546" key="GridCell.Tab.1.right" timestamp="1583391419765">
+    <state width="1323" height="504" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583407811575" />
+    <state width="1323" height="504" key="GridCell.Tab.1.right" timestamp="1583407811575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="546" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583391419764" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1583390973543">
+    <state width="1323" height="504" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583407811575" />
+    <state x="187" y="6" key="SettingsEditor" timestamp="1583409651765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583390973543" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1583392398420">
+    <state x="187" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583409651765" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1583392603904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583392398420" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583392603904" />
   </component>
 </project>
