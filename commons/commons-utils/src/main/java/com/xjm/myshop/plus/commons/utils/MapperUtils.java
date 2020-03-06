@@ -230,4 +230,6 @@ public class MapperUtils {
         JsonNode data = jsonNode.findPath(treeNode);
         return json2list(data.toString(), clazz);
     }
+
+
 }

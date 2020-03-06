@@ -4,10 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/business/business.iml" filepath="$PROJECT_DIR$/business/business.iml" />
       <module fileurl="file://$PROJECT_DIR$/business/business-oauth2/business-oauth2.iml" filepath="$PROJECT_DIR$/business/business-oauth2/business-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-profile/business-profile.iml" filepath="$PROJECT_DIR$/business/business-profile/business-profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-profile/business-profile-feign/business-profile-feign.iml" filepath="$PROJECT_DIR$/business/business-profile/business-profile-feign/business-profile-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-profile/business-profile-service/business-profile-service.iml" filepath="$PROJECT_DIR$/business/business-profile/business-profile-service/business-profile-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/business/business-reg/business-reg.iml" filepath="$PROJECT_DIR$/business/business-reg/business-reg.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons-dto/commons-dto.iml" filepath="$PROJECT_DIR$/commons/commons-dto/commons-dto.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" filepath="$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configuration/configuration.iml" filepath="$PROJECT_DIR$/configuration/configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configuration/configuration-feign/configuration-feign.iml" filepath="$PROJECT_DIR$/configuration/configuration-feign/configuration-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/dependencies/dependencies.iml" filepath="$PROJECT_DIR$/dependencies/dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />

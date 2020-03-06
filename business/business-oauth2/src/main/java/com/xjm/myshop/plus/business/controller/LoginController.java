@@ -3,9 +3,11 @@ package com.xjm.myshop.plus.business.controller;
 import com.google.common.collect.Maps;
 import com.xjm.myshop.plus.business.dto.LoginInfo;
 import com.xjm.myshop.plus.business.dto.LoginParam;
+import com.xjm.myshop.plus.business.feign.ProfileFeign;
 import com.xjm.myshop.plus.commons.dto.ResponseResult;
 import com.xjm.myshop.plus.commons.utils.MapperUtils;
 import com.xjm.myshop.plus.commons.utils.OkHttpClientUtil;
+import com.xjm.myshop.plus.provider.domain.UmsAdmin;
 import okhttp3.Response;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.Authentication;
@@ -20,7 +22,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-import sun.plugin.liveconnect.SecurityContextHelper;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
@@ -55,6 +56,10 @@ public class LoginController {
     @Resource
     public TokenStore tokenStore;
 
+    @Resource
+    private ProfileFeign profileFeign;
+
+
     @PostMapping(value = "/user/login")
     public ResponseResult<Map<String,Object>> login(@RequestBody LoginParam loginParam){
         //封装返回的结果集
@@ -88,10 +93,17 @@ public class LoginController {
     }
 
     @GetMapping(value = "/user/info")
-    public ResponseResult<LoginInfo> info(){
+    public ResponseResult<LoginInfo> info() throws Exception {
+        //获取认证信息
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+
+        String jsonString = profileFeign.info(authentication.getName());
+        UmsAdmin umsAdmin = MapperUtils.json2pojoByTree(jsonString, "data", UmsAdmin.class);
+
+        //封装并返回结果
         LoginInfo loginInfo = new LoginInfo();
-        loginInfo.setName(authentication.getName());
+        loginInfo.setName(umsAdmin.getNickName());
+        loginInfo.setAvatar(umsAdmin.getIcon());
         return new ResponseResult<LoginInfo>(ResponseResult.CodeStatus.OK,"获取用户信息",loginInfo);
     }
 

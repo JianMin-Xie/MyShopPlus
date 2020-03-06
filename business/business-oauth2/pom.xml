@@ -17,6 +17,10 @@
         </license>
     </licenses>
     <dependencies>
+        <dependency>
+            <groupId>io.github.openfeign</groupId>
+            <artifactId>feign-okhttp</artifactId>
+        </dependency>
         <!-- Spring Boot Begin -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -106,6 +110,16 @@
         <dependency>
             <groupId>com.xjm.myshop.plus</groupId>
             <artifactId>ums-admin-provider-api</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.xjm.myshop.plus</groupId>
+            <artifactId>configuration-feign</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.xjm.myshop.plus</groupId>
+            <artifactId>business-profile-feign</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
         <!-- Projects End -->
