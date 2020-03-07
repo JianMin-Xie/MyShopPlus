@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/configuration/configuration.iml" filepath="$PROJECT_DIR$/configuration/configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/configuration/configuration-feign/configuration-feign.iml" filepath="$PROJECT_DIR$/configuration/configuration-feign/configuration-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/dependencies/dependencies.iml" filepath="$PROJECT_DIR$/dependencies/dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider/ums-admin-provider-api/ums-admin-provider-api.iml" filepath="$PROJECT_DIR$/provider/ums-admin-provider-api/ums-admin-provider-api.iml" />

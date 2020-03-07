@@ -32,7 +32,6 @@ import java.util.Objects;
  * 登录管理
  * @author xjm
  */
-@CrossOrigin(origins = "*", maxAge = 3600)
 @RestController
 public class LoginController {
 

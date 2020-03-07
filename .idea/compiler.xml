@@ -7,14 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="business-profile-feign" />
+        <module name="gateway" />
         <module name="business-reg" />
         <module name="commons-dto" />
-        <module name="configuration-feign" />
+        <module name="ums-admin-provider-api" />
         <module name="ums-admin-provider-service" />
         <module name="commons-utils" />
         <module name="business-oauth2" />
         <module name="business-profile-service" />
-        <module name="ums-admin-provider-api" />
+        <module name="configuration-feign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,6 +31,7 @@
       <module name="configuration" target="1.8" />
       <module name="configuration-feign" target="1.8" />
       <module name="dependencies" target="1.5" />
+      <module name="gateway" target="1.8" />
       <module name="parent" target="1.8" />
       <module name="provider" target="1.8" />
       <module name="ums-admin-provider-api" target="1.8" />
@@ -45,6 +47,7 @@
       <module name="commons-dto" options="-parameters" />
       <module name="commons-utils" options="-parameters" />
       <module name="configuration-feign" options="-parameters" />
+      <module name="gateway" options="-parameters" />
       <module name="ums-admin-provider-api" options="-parameters" />
       <module name="ums-admin-provider-service" options="-parameters" />
     </option>

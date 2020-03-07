@@ -2,73 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0ee5f60-a1c2-421c-9966-4843953ca3eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_okhttp_10_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-feign/business-profile-feign.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-feign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-feign/src/main/java/com/xjm/myshop/plus/business/feign/ProfileFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/classes/META-INF/business-profile-feign.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/classes/com/xjm/myshop/plus/business/feign/ProfileFeign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/business-profile-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/java/com/xjm/myshop/plus/business/BusinessProfileApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/java/com/xjm/myshop/plus/business/configure/ProfileResourceServerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/java/com/xjm/myshop/plus/business/controller/ProfileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/com/xjm/myshop/plus/business/BusinessProfileApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/com/xjm/myshop/plus/business/configure/ProfileResourceServerConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/com/xjm/myshop/plus/business/controller/ProfileController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/business-profile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/business-profile/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/busineww-profile/business-profile-feign/target/classes/META-INF/business-profile-feign.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/busineww-profile/business-profile-service/target/classes/META-INF/business-profile-service.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration/configuration-feign/configuration-feign.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration/configuration-feign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration/configuration-feign/src/main/java/com/xjm/myshop/plus/configuration/FeignRequestConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration/configuration-feign/src/main/java/com/xjm/myshop/plus/interceptor/FeignRequestInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration/configuration-feign/target/classes/META-INF/configuration-feign.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration/configuration-feign/target/classes/com/xjm/myshop/plus/configuration/FeignRequestConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration/configuration-feign/target/classes/com/xjm/myshop/plus/interceptor/FeignRequestInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration/configuration.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/business-oauth2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/business-oauth2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/BusinessOAuth2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/BusinessOAuth2Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/BusinessOAuth2Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/BusinessOAuth2Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-reg/business-reg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-reg/business-reg.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commons/commons-dto/commons-dto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-dto/commons-dto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commons/commons-utils/src/main/java/com/xjm/myshop/plus/commons/utils/MapperUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-utils/src/main/java/com/xjm/myshop/plus/commons/utils/MapperUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependencies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/src/main/java/com/xjm/myshop/plus/provider/domain/UmsAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/src/main/java/com/xjm/myshop/plus/provider/domain/UmsAdmin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/domain/UmsAdmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/domain/UmsAdmin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/ums-admin-provider-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/ums-admin-provider-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/ums-admin-provider-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/ums-admin-provider-service.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +40,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="06c5c4cc8720e9ad9c8c678f1775c1a62c2f2fd6" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">

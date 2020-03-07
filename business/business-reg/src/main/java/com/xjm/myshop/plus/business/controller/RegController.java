@@ -25,7 +25,6 @@ import javax.annotation.Resource;
  * @see com.xjm.myshop.plus.business.controller
  *
  */
-@CrossOrigin(origins = "s",maxAge = 3600)
 @RestController
 @RequestMapping(value = "reg")
 public class RegController {
