@@ -102,6 +102,11 @@
         </dependency>
         <dependency>
             <groupId>com.xjm.myshop.plus</groupId>
+            <artifactId>commons-utils</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.xjm.myshop.plus</groupId>
             <artifactId>business-profile-feign</artifactId>
             <version>${project.parent.version}</version>
         </dependency>

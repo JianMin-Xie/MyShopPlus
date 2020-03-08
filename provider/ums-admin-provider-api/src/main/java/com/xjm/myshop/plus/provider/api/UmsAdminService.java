@@ -20,4 +20,10 @@ public interface UmsAdminService {
 
     UmsAdmin get(UmsAdmin umsAdmin);
 
+    /**
+     * 更新
+     * @return
+     */
+    int update(UmsAdmin umsAdmin);
+
 }
