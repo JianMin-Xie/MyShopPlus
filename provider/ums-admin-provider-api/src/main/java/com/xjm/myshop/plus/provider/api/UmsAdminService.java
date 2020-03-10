@@ -37,6 +37,13 @@ public interface UmsAdminService {
      */
     int modifyPassword(String username, String password);
 
+    /**
+     * 修改头像
+     * @param username 用户名
+     * @param path 头像路径
+     * @return
+     */
+    int modifyIcon(String username, String path);
 
 
 }

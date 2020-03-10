@@ -1,5 +1,6 @@
 package com.xjm.myshop.plus.business.feign;
 
+import com.xjm.myshop.plus.business.dto.IconParam;
 import com.xjm.myshop.plus.business.dto.PasswordParam;
 import com.xjm.myshop.plus.business.dto.ProfileParam;
 import com.xjm.myshop.plus.configuration.FeignRequestConfiguration;
@@ -47,5 +48,13 @@ public interface ProfileFeign {
      */
     @PostMapping(value = "modify/password")
     String modifyPassword(@RequestBody PasswordParam passwordParam);
+
+    /**
+     * 修改头像
+     * @param iconParam
+     * @return
+     */
+    @PostMapping(value = "modify/icon")
+    String modifyIcon(@RequestBody IconParam iconParam);
 
 }

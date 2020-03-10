@@ -66,13 +66,19 @@ export const constantRoutes = [
         path: 'info',
         name: 'ProfileInfo',
         component: () => import('@/views/profile/info'),
-        meta: { title: '修改信息', icon: '' }
+        meta: { title: '修改信息' }
       },
       {
         path: 'password',
         name: 'ProfilePassword',
         component: () => import('@/views/profile/password'),
-        meta: { title: '修改密码', icon: '' }
+        meta: { title: '修改密码' }
+      },
+      {
+        path: 'Icon',
+        name: 'ProfileIcon',
+        component: () => import('@/views/profile/icon'),
+        meta: { title: '修改头像' }
       }
     ]
   },
