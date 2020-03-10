@@ -55,14 +55,22 @@ public class UmsAdminServiceImpl implements UmsAdminService {
 
     @Override
     public int update(UmsAdmin umsAdmin) {
+        //获取原始用户信息
         UmsAdmin oldUmsAdmin = get(umsAdmin.getUsername());
-
+        //仅更新 邮箱、昵称、备注、状态
         oldUmsAdmin.setEmail(umsAdmin.getEmail());
         oldUmsAdmin.setNickName(umsAdmin.getNickName());
         oldUmsAdmin.setNote(umsAdmin.getNote());
         oldUmsAdmin.setStatus(umsAdmin.getStatus());
 
         return umsAdminMapper.updateByPrimaryKey(oldUmsAdmin);
+    }
+
+    @Override
+    public int modifyPassword(String username, String password) {
+        UmsAdmin umsAdmin = get(username);
+        umsAdmin.setPassword(passwordEncoder.encode(password));
+        return umsAdminMapper.updateByPrimaryKey(umsAdmin);
     }
 
     /**

@@ -22,3 +22,14 @@ export function update(data) {
     data
   })
 }
+/**
+ * 更新密码
+ * @param data
+ */
+export function modifyPassword(data) {
+  return request({
+    url: '/profile/modify/password',
+    method: 'post',
+    data
+  })
+}

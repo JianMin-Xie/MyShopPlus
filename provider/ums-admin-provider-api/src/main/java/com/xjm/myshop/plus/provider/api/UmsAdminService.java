@@ -2,6 +2,9 @@ package com.xjm.myshop.plus.provider.api;
 
 import com.xjm.myshop.plus.provider.domain.UmsAdmin;
 
+/**
+ * @author xjm
+ */
 public interface UmsAdminService {
 
     /**
@@ -12,7 +15,7 @@ public interface UmsAdminService {
     int insert(UmsAdmin umsAdmin);
 
     /**
-     * 获取影虎
+     * 获取用户
      * @param username 用户名
      * @return {@link UmsAdmin}
      */
@@ -21,9 +24,19 @@ public interface UmsAdminService {
     UmsAdmin get(UmsAdmin umsAdmin);
 
     /**
-     * 更新
+     * 更新个人信息
      * @return
      */
     int update(UmsAdmin umsAdmin);
+
+    /**
+     * 修改密码
+     * @param username 用户名
+     * @param password 明文密码
+     * @return 大于 0 表示修改成功
+     */
+    int modifyPassword(String username, String password);
+
+
 
 }
