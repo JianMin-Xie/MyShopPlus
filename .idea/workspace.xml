@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0ee5f60-a1c2-421c-9966-4843953ca3eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/src/main/java/com/xjm/myshop/plus/business/feign/ProfileFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-profile/business-profile-feign/src/main/java/com/xjm/myshop/plus/business/feign/ProfileFeign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/classes/com/xjm/myshop/plus/business/feign/ProfileFeign.class" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/classes/com/xjm/myshop/plus/business/feign/ProfileFeign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/business-profile-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/business-profile-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/java/com/xjm/myshop/plus/business/controller/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/java/com/xjm/myshop/plus/business/controller/ProfileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/com/xjm/myshop/plus/business/controller/ProfileController.class" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/com/xjm/myshop/plus/business/controller/ProfileController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commons/commons-dto/src/main/java/com/xjm/myshop/plus/commons/dto/ResponseResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-dto/src/main/java/com/xjm/myshop/plus/commons/dto/ResponseResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commons/commons-dto/target/classes/com/xjm/myshop/plus/commons/dto/ResponseResult$CodeStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-dto/target/classes/com/xjm/myshop/plus/commons/dto/ResponseResult$CodeStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/api/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/api/profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/profile/info.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/profile/info.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/src/main/java/com/xjm/myshop/plus/provider/api/UmsAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/src/main/java/com/xjm/myshop/plus/provider/api/UmsAdminService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/src/main/java/com/xjm/myshop/plus/provider/domain/UmsAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/src/main/java/com/xjm/myshop/plus/provider/domain/UmsAdmin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/api/UmsAdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/api/UmsAdminService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/domain/UmsAdmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/domain/UmsAdmin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/src/main/java/com/xjm/myshop/plus/provider/service/UmsAdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/src/main/java/com/xjm/myshop/plus/provider/service/UmsAdminServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/com/xjm/myshop/plus/provider/service/UmsAdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/com/xjm/myshop/plus/provider/service/UmsAdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,23 +102,7 @@
       <recent name="H:\workspace\github\MyShopPlus" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.BusinessOAuth2Application">
-    <configuration name="BusinessOauth2Tests.testPasswordEncoder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="business-oauth2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xjm.myshop.plus.business.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.xjm.myshop.plus.business" />
-      <option name="MAIN_CLASS_NAME" value="com.xjm.myshop.plus.business.BusinessOauth2Tests" />
-      <option name="METHOD_NAME" value="testPasswordEncoder" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.CloudUploadApplication">
     <configuration name="OKHttp3Tests.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="business-oauth2" />
       <extension name="coverage">
@@ -214,6 +188,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CloudUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-upload-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xjm.myshop.plus.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xjm.myshop.plus.cloud.CloudUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xjm.myshop.plus.gateway.GatewayApplication" />
@@ -230,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.CloudUploadApplication" />
         <item itemvalue="JUnit.ProfileParamTests.testProfileParam" />
         <item itemvalue="JUnit.OKHttp3Tests.testUtilPost" />
         <item itemvalue="JUnit.OKHttp3Tests.testPost" />
         <item itemvalue="JUnit.OKHttp3Tests.testGet" />
-        <item itemvalue="JUnit.BusinessOauth2Tests.testPasswordEncoder" />
       </list>
     </recent_temporary>
   </component>
@@ -272,6 +259,8 @@
       <workItem from="1583584939747" duration="903000" />
       <workItem from="1583653017793" duration="10560000" />
       <workItem from="1583664544775" duration="2876000" />
+      <workItem from="1583751305766" duration="2085000" />
+      <workItem from="1583817826411" duration="8522000" />
     </task>
     <task id="LOCAL-00001" summary="用户注册服务">
       <created>1583385396154</created>
@@ -365,50 +354,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583663003995" />
-    <state x="119" y="55" key="DiffContextDialog" timestamp="1583662825493">
+    <state x="119" y="55" width="1149" height="610" maximized="true" key="DiffContextDialog" timestamp="1583820742138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="119" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1583662825493" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1583385188978">
+    <state x="119" y="55" width="1149" height="610" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1583820742138" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1583755441468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583385188978" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583755441468" />
     <state x="558" y="254" width="273" height="288" key="Github.ShareDialog" timestamp="1583385787715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="558" y="254" width="273" height="288" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1583385787715" />
-    <state width="1323" height="346" key="GridCell.Tab.0.bottom" timestamp="1583667259141">
+    <state width="1323" height="249" key="GridCell.Tab.0.bottom" timestamp="1583826499243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="346" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583667259141" />
-    <state width="1323" height="346" key="GridCell.Tab.0.center" timestamp="1583667259141">
+    <state width="1323" height="249" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583826499243" />
+    <state width="1323" height="249" key="GridCell.Tab.0.center" timestamp="1583826499243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="346" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583667259141" />
-    <state width="1323" height="346" key="GridCell.Tab.0.left" timestamp="1583667259141">
+    <state width="1323" height="249" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583826499243" />
+    <state width="1323" height="249" key="GridCell.Tab.0.left" timestamp="1583826499242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="346" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583667259141" />
-    <state width="1323" height="346" key="GridCell.Tab.0.right" timestamp="1583667259141">
+    <state width="1323" height="249" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583826499242" />
+    <state width="1323" height="249" key="GridCell.Tab.0.right" timestamp="1583826499243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="346" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583667259141" />
-    <state width="1323" height="346" key="GridCell.Tab.1.bottom" timestamp="1583667259141">
+    <state width="1323" height="249" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583826499243" />
+    <state width="1323" height="249" key="GridCell.Tab.1.bottom" timestamp="1583826499243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="346" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583667259141" />
-    <state width="1323" height="346" key="GridCell.Tab.1.center" timestamp="1583667259141">
+    <state width="1323" height="249" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583826499243" />
+    <state width="1323" height="249" key="GridCell.Tab.1.center" timestamp="1583826499243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="346" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583667259141" />
-    <state width="1323" height="346" key="GridCell.Tab.1.left" timestamp="1583667259141">
+    <state width="1323" height="249" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583826499243" />
+    <state width="1323" height="249" key="GridCell.Tab.1.left" timestamp="1583826499243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="346" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583667259141" />
-    <state width="1323" height="346" key="GridCell.Tab.1.right" timestamp="1583667259141">
+    <state width="1323" height="249" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583826499243" />
+    <state width="1323" height="249" key="GridCell.Tab.1.right" timestamp="1583826499243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="346" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583667259141" />
+    <state width="1323" height="249" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583826499243" />
     <state x="210" y="0" key="SettingsEditor" timestamp="1583666100053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -417,6 +406,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583663283784" />
+    <state x="57" y="65" key="new project wizard" timestamp="1583755448509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583755448509" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583585800772">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

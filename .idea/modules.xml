@@ -8,6 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/business/business-profile/business-profile-feign/business-profile-feign.iml" filepath="$PROJECT_DIR$/business/business-profile/business-profile-feign/business-profile-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/business/business-profile/business-profile-service/business-profile-service.iml" filepath="$PROJECT_DIR$/business/business-profile/business-profile-service/business-profile-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/business/business-reg/business-reg.iml" filepath="$PROJECT_DIR$/business/business-reg/business-reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud/cloud.iml" filepath="$PROJECT_DIR$/cloud/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud/cloud-upload/cloud-upload.iml" filepath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-feign/cloud-upload-feign.iml" filepath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-feign/cloud-upload-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/cloud-upload-service.iml" filepath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/cloud-upload-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons-dto/commons-dto.iml" filepath="$PROJECT_DIR$/commons/commons-dto/commons-dto.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" filepath="$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" />

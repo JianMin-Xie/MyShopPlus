@@ -9,6 +9,8 @@
         <module name="business-profile-feign" />
         <module name="gateway" />
         <module name="business-reg" />
+        <module name="cloud-upload-service" />
+        <module name="cloud-upload-feign" />
         <module name="commons-dto" />
         <module name="ums-admin-provider-api" />
         <module name="ums-admin-provider-service" />
@@ -25,6 +27,10 @@
       <module name="business-profile-feign" target="1.8" />
       <module name="business-profile-service" target="1.8" />
       <module name="business-reg" target="1.8" />
+      <module name="cloud" target="1.8" />
+      <module name="cloud-upload" target="1.8" />
+      <module name="cloud-upload-feign" target="1.8" />
+      <module name="cloud-upload-service" target="1.8" />
       <module name="commons" target="1.8" />
       <module name="commons-dto" target="1.8" />
       <module name="commons-utils" target="1.8" />
@@ -44,6 +50,8 @@
       <module name="business-profile-feign" options="-parameters" />
       <module name="business-profile-service" options="-parameters" />
       <module name="business-reg" options="-parameters" />
+      <module name="cloud-upload-feign" options="-parameters" />
+      <module name="cloud-upload-service" options="-parameters" />
       <module name="commons-dto" options="-parameters" />
       <module name="commons-utils" options="-parameters" />
       <module name="configuration-feign" options="-parameters" />
