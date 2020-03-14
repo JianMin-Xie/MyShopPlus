@@ -26,7 +26,7 @@ dubbo:
     port: -1
     serialization: kryo
   registry:
-    address: nacos://192.168.102.133
+    address: nacos://120.78.212.237
     port: 8848
 mybatis:
   type-aliases-package: com.xjm.myshop.plus.provider.domain

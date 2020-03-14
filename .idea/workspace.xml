@@ -2,21 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0ee5f60-a1c2-421c-9966-4843953ca3eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_okhttp_10_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/src/main/java/com/xjm/myshop/plus/business/feign/ProfileFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-profile/business-profile-feign/src/main/java/com/xjm/myshop/plus/business/feign/ProfileFeign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/classes/com/xjm/myshop/plus/business/feign/ProfileFeign.class" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/classes/com/xjm/myshop/plus/business/feign/ProfileFeign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/java/com/xjm/myshop/plus/business/controller/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/java/com/xjm/myshop/plus/business/controller/ProfileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/com/xjm/myshop/plus/business/controller/ProfileController.class" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/com/xjm/myshop/plus/business/controller/ProfileController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/api/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/api/profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/store/modules/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/store/modules/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/profile/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/src/main/java/com/xjm/myshop/plus/provider/api/UmsAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/src/main/java/com/xjm/myshop/plus/provider/api/UmsAdminService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/api/UmsAdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/api/UmsAdminService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/src/main/java/com/xjm/myshop/plus/provider/service/UmsAdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/src/main/java/com/xjm/myshop/plus/provider/service/UmsAdminServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/com/xjm/myshop/plus/provider/service/UmsAdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/com/xjm/myshop/plus/provider/service/UmsAdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/business-oauth2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/business-oauth2-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/BusinessOAuth2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/main/java/com/xjm/myshop/plus/business/BusinessOAuth2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/configure/AuthorizationServerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/main/java/com/xjm/myshop/plus/business/configure/AuthorizationServerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/configure/WebSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/main/java/com/xjm/myshop/plus/business/configure/WebSecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/main/java/com/xjm/myshop/plus/business/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/dto/LoginInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/main/java/com/xjm/myshop/plus/business/dto/LoginInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/dto/LoginParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/main/java/com/xjm/myshop/plus/business/dto/LoginParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/java/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/main/java/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/main/resources/rebel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/test/java/com/xjm/myshop/plus/business/BusinessOauth2Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/test/java/com/xjm/myshop/plus/business/BusinessOauth2Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/src/test/java/com/xjm/myshop/plus/business/OKHttp3Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/test/java/com/xjm/myshop/plus/business/OKHttp3Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/business-oauth2-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/business-oauth2-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/BusinessOAuth2Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/configure/AuthorizationServerConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/configure/WebSecurityConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/dto/LoginInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/dto/LoginParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/com/xjm/myshop/plus/business/service/UserDetailsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/classes/rebel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/test-classes/com/xjm/myshop/plus/business/BusinessOauth2Tests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-oauth2/target/test-classes/com/xjm/myshop/plus/business/OKHttp3Tests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/business-profile-feign.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/src/main/java/com/xjm/myshop/plus/business/dto/IconParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/src/main/java/com/xjm/myshop/plus/business/dto/PasswordParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/src/main/java/com/xjm/myshop/plus/business/dto/ProfileParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/src/main/java/com/xjm/myshop/plus/business/feign/ProfileFeign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/business-profile-feign-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/classes/com/xjm/myshop/plus/business/dto/IconParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/classes/com/xjm/myshop/plus/business/dto/PasswordParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/classes/com/xjm/myshop/plus/business/dto/ProfileParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/classes/com/xjm/myshop/plus/business/feign/ProfileFeign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/business-profile-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/java/com/xjm/myshop/plus/business/BusinessProfileApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/java/com/xjm/myshop/plus/business/configure/ProfileResourceServerConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/java/com/xjm/myshop/plus/business/controller/ProfileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/src/test/java/com/xjm/myshop/plus/business/ProfileParamTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/business-profile-service-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/business-profile-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/META-INF/business-profile-service.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/com/xjm/myshop/plus/business/BusinessProfileApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/com/xjm/myshop/plus/business/configure/ProfileResourceServerConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/classes/com/xjm/myshop/plus/business/controller/ProfileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile-service/target/test-classes/com/xjm/myshop/plus/business/ProfileParamTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/business-profile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-profile/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/business-reg.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-reg-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/src/main/java/com/xjm/myshop/plus/business/BusinessRegApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-reg-service/src/main/java/com/xjm/myshop/plus/business/BusinessRegApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/src/main/java/com/xjm/myshop/plus/business/controller/EchoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-reg-service/src/main/java/com/xjm/myshop/plus/business/controller/EchoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/src/main/java/com/xjm/myshop/plus/business/controller/RegController.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-reg-service/src/main/java/com/xjm/myshop/plus/business/controller/RegController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-reg-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/src/main/resources/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-reg-service/src/main/resources/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/target/business-reg-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/target/business-reg-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/target/classes/com/xjm/myshop/plus/business/BusinessRegApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/target/classes/com/xjm/myshop/plus/business/controller/EchoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/target/classes/com/xjm/myshop/plus/business/controller/RegController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/target/classes/rebel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business-reg/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/business.iml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/cloud-upload-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/cloud-upload-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/target/classes/com/xjm/myshop/plus/cloud/controller/UploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/target/classes/com/xjm/myshop/plus/cloud/controller/UploadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons/commons-dto/src/main/java/com/xjm/myshop/plus/commons/dto/ResponseResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-dto/src/main/java/com/xjm/myshop/plus/commons/dto/ResponseResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons/commons-dto/target/classes/com/xjm/myshop/plus/commons/dto/ResponseResult$CodeStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-dto/target/classes/com/xjm/myshop/plus/commons/dto/ResponseResult$CodeStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/src/main/resources/rebel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/rebel.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +132,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Vue Single File Component" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,6 +151,16 @@
         <option value="H:\workspace\github\MyShopPlus\.idea" />
       </set>
     </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="business-oauth2-service/invalid/JRebel" />
+      <facet id="business-reg-service/invalid/JRebel" />
+      <facet id="commons-dto/invalid/JRebel" />
+      <facet id="commons-utils/invalid/JRebel" />
+      <facet id="ums-admin-provider-api/invalid/JRebel" />
+      <facet id="ums-admin-provider-service/invalid/JRebel" />
+    </ignored-facets>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -101,17 +198,27 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="ts.external.directory.path" value="D:\software_install\IntelliJ IDEA 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\workspace\github\MyShopPlus\business" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\workspace\github\MyShopPlus" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
   <component name="RunManager" selected="Spring Boot.BusinessProfileApplication">
     <configuration name="OKHttp3Tests.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="business-oauth2" />
+      <module name="business-oauth2-service" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xjm.myshop.plus.business.*" />
@@ -127,7 +234,7 @@
       </method>
     </configuration>
     <configuration name="OKHttp3Tests.testPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="business-oauth2" />
+      <module name="business-oauth2-service" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xjm.myshop.plus.business.*" />
@@ -143,7 +250,7 @@
       </method>
     </configuration>
     <configuration name="OKHttp3Tests.testUtilPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="business-oauth2" />
+      <module name="business-oauth2-service" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xjm.myshop.plus.business.*" />
@@ -175,7 +282,7 @@
       </method>
     </configuration>
     <configuration name="BusinessOAuth2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="business-oauth2" />
+      <module name="business-oauth2-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xjm.myshop.plus.business.BusinessOAuth2Application" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -236,8 +343,24 @@
     <option name="viewStates">
       <list>
         <serviceView>
+          <option name="contentProportion" value="0.26429674" />
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -267,7 +390,17 @@
       <workItem from="1583653017793" duration="10560000" />
       <workItem from="1583664544775" duration="2876000" />
       <workItem from="1583751305766" duration="2085000" />
-      <workItem from="1583817826411" duration="21598000" />
+      <workItem from="1583817826411" duration="21989000" />
+      <workItem from="1583845669424" duration="903000" />
+      <workItem from="1583920967684" duration="1195000" />
+      <workItem from="1583937288124" duration="125000" />
+      <workItem from="1584125792776" duration="578000" />
+      <workItem from="1584189437694" duration="681000" />
+      <workItem from="1584190161417" duration="456000" />
+      <workItem from="1584190632558" duration="176000" />
+      <workItem from="1584190878539" duration="581000" />
+      <workItem from="1584191513622" duration="5069000" />
+      <workItem from="1584208831273" duration="4505000" />
     </task>
     <task id="LOCAL-00001" summary="用户注册服务">
       <created>1583385396154</created>
@@ -325,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583835688926</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="管理后台-个人信息-头像上传">
+      <created>1583845248615</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1583845248615</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,7 +494,8 @@
     <MESSAGE value="更新版本号+管理后台+个人信息+查询" />
     <MESSAGE value="云服务-文件上传-OSS" />
     <MESSAGE value="管理后台-个人信息-密码修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="管理后台-个人信息-密码修改" />
+    <MESSAGE value="管理后台-个人信息-头像上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="管理后台-个人信息-头像上传" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="22" key="#Custom_Plugin_Repositories" timestamp="1583409318370">
@@ -373,73 +514,73 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583393353680" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1583836043477">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1584193227333">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583836043477" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1583835513404">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584193227333" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1583845068639">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583835513404" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583845068639" />
     <state x="119" y="55" width="1149" height="610" maximized="true" key="DiffContextDialog" timestamp="1583820742138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="119" y="55" width="1149" height="610" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1583820742138" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1583755441468">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1583846185693">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583755441468" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583846185693" />
     <state x="558" y="254" width="273" height="288" key="Github.ShareDialog" timestamp="1583385787715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="558" y="254" width="273" height="288" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1583385787715" />
-    <state width="1323" height="503" key="GridCell.Tab.0.bottom" timestamp="1583844739452">
+    <state width="951" height="266" key="GridCell.Tab.0.bottom" timestamp="1584213543593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="503" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583844739452" />
-    <state width="1323" height="503" key="GridCell.Tab.0.center" timestamp="1583844739452">
+    <state width="951" height="266" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584213543593" />
+    <state width="951" height="266" key="GridCell.Tab.0.center" timestamp="1584213543593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="503" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583844739452" />
-    <state width="1323" height="503" key="GridCell.Tab.0.left" timestamp="1583844739452">
+    <state width="951" height="266" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584213543593" />
+    <state width="951" height="266" key="GridCell.Tab.0.left" timestamp="1584213543593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="503" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583844739452" />
-    <state width="1323" height="503" key="GridCell.Tab.0.right" timestamp="1583844739452">
+    <state width="951" height="266" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584213543593" />
+    <state width="951" height="266" key="GridCell.Tab.0.right" timestamp="1584213543593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="503" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583844739452" />
-    <state width="1323" height="503" key="GridCell.Tab.1.bottom" timestamp="1583844739452">
+    <state width="951" height="266" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584213543593" />
+    <state width="951" height="266" key="GridCell.Tab.1.bottom" timestamp="1584213543594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="503" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583844739452" />
-    <state width="1323" height="503" key="GridCell.Tab.1.center" timestamp="1583844739452">
+    <state width="951" height="266" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584213543594" />
+    <state width="951" height="266" key="GridCell.Tab.1.center" timestamp="1584213543594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="503" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583844739452" />
-    <state width="1323" height="503" key="GridCell.Tab.1.left" timestamp="1583844739452">
+    <state width="951" height="266" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584213543594" />
+    <state width="951" height="266" key="GridCell.Tab.1.left" timestamp="1584213543593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="503" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583844739452" />
-    <state width="1323" height="503" key="GridCell.Tab.1.right" timestamp="1583844739452">
+    <state width="951" height="266" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584213543593" />
+    <state width="951" height="266" key="GridCell.Tab.1.right" timestamp="1584213543594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="503" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583844739452" />
-    <state x="210" y="0" key="SettingsEditor" timestamp="1583666100053">
+    <state width="951" height="266" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584213543594" />
+    <state x="210" y="0" key="SettingsEditor" timestamp="1584191833696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="210" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583666100053" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1583835721403">
+    <state x="210" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584191833696" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1583845272581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583835721403" />
-    <state x="57" y="65" key="new project wizard" timestamp="1583755448509">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583845272581" />
+    <state x="57" y="65" key="new project wizard" timestamp="1583937422634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="57" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583755448509" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583585800772">
+    <state x="57" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583937422634" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584194095572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583585800772" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584194095572" />
   </component>
 </project>

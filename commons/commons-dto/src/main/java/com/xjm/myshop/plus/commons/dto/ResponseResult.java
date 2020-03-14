@@ -115,7 +115,11 @@ public class ResponseResult<T> implements Serializable {
         /**
          * 请求失败
          */
-        public static final int FAIL = 20004;
+        public static final int FAIL = 20002;
+        /**
+         * 熔断请求
+         */
+        public static final int BREAKING = 20004;
         /**
          * 非法请求
          */

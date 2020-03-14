@@ -3,11 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/business/business.iml" filepath="$PROJECT_DIR$/business/business.iml" />
-      <module fileurl="file://$PROJECT_DIR$/business/business-oauth2/business-oauth2.iml" filepath="$PROJECT_DIR$/business/business-oauth2/business-oauth2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/business/business-profile/business-profile.iml" filepath="$PROJECT_DIR$/business/business-profile/business-profile.iml" />
-      <module fileurl="file://$PROJECT_DIR$/business/business-profile/business-profile-feign/business-profile-feign.iml" filepath="$PROJECT_DIR$/business/business-profile/business-profile-feign/business-profile-feign.iml" />
-      <module fileurl="file://$PROJECT_DIR$/business/business-profile/business-profile-service/business-profile-service.iml" filepath="$PROJECT_DIR$/business/business-profile/business-profile-service/business-profile-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/business/business-reg/business-reg.iml" filepath="$PROJECT_DIR$/business/business-reg/business-reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-oauth2-service/business-oauth2.iml" filepath="$PROJECT_DIR$/business/business-oauth2-service/business-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-oauth2-service/business-oauth2-.iml" filepath="$PROJECT_DIR$/business/business-oauth2-service/business-oauth2-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-oauth2-feign/business-oauth2-feign.iml" filepath="$PROJECT_DIR$/business/business-oauth2-feign/business-oauth2-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-oauth2-service/business-oauth2-service.iml" filepath="$PROJECT_DIR$/business/business-oauth2-service/business-oauth2-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-profile-feign/business-profile-feign.iml" filepath="$PROJECT_DIR$/business/business-profile-feign/business-profile-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-profile-service/business-profile-service.iml" filepath="$PROJECT_DIR$/business/business-profile-service/business-profile-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-reg-feign/business-reg-feign.iml" filepath="$PROJECT_DIR$/business/business-reg-feign/business-reg-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-reg-service/business-reg-service.iml" filepath="$PROJECT_DIR$/business/business-reg-service/business-reg-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud/cloud.iml" filepath="$PROJECT_DIR$/cloud/cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud/cloud-upload/cloud-upload.iml" filepath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-feign/cloud-upload-feign.iml" filepath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-feign/cloud-upload-feign.iml" />
