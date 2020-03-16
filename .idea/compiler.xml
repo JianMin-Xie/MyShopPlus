@@ -9,11 +9,13 @@
         <module name="business-oauth2-feign" />
         <module name="gateway" />
         <module name="commons-dto" />
+        <module name="configuration-sentinel" />
         <module name="configuration-feign" />
         <module name="ums-admin-provider-api" />
         <module name="business-reg-service" />
         <module name="commons-utils" />
         <module name="ums-admin-provider-service" />
+        <module name="configuration-sentinei" />
         <module name="business-reg-feign" />
         <module name="cloud-upload-feign" />
         <module name="cloud-upload-service" />
@@ -45,6 +47,8 @@
       <module name="commons-utils" target="1.8" />
       <module name="configuration" target="1.8" />
       <module name="configuration-feign" target="1.8" />
+      <module name="configuration-sentinei" target="1.8" />
+      <module name="configuration-sentinel" target="1.8" />
       <module name="dependencies" target="1.5" />
       <module name="gateway" target="1.8" />
       <module name="parent" target="1.8" />
@@ -69,6 +73,8 @@
       <module name="commons-dto" options="-parameters" />
       <module name="commons-utils" options="-parameters" />
       <module name="configuration-feign" options="-parameters" />
+      <module name="configuration-sentinei" options="-parameters" />
+      <module name="configuration-sentinel" options="-parameters" />
       <module name="gateway" options="-parameters" />
       <module name="ums-admin-provider-api" options="-parameters" />
       <module name="ums-admin-provider-service" options="-parameters" />

@@ -1,5 +1,7 @@
 package com.xjm.myshop.plus.business.controller;
 
+import com.alibaba.csp.sentinel.annotation.SentinelResource;
+import com.xjm.myshop.plus.business.controller.fallback.ProfileControllerFallback;
 import com.xjm.myshop.plus.business.dto.UmsAdminDTO;
 import com.xjm.myshop.plus.business.dto.params.IconParam;
 import com.xjm.myshop.plus.business.dto.params.PasswordParam;
@@ -42,6 +44,7 @@ public class ProfileController {
     private BCryptPasswordEncoder passwordEncoder;
 
     @GetMapping(value = "info/{username}")
+    @SentinelResource(value = "info",fallback = "infoFallback", fallbackClass = ProfileControllerFallback.class)
     public ResponseResult<UmsAdminDTO> info(@PathVariable String username){
         UmsAdmin umsAdmin = umsAdminService.get(username);
         UmsAdminDTO dto = new UmsAdminDTO();

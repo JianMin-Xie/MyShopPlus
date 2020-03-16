@@ -1,5 +1,6 @@
 package com.xjm.myshop.plus.provider.service;
 
+import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import com.xjm.myshop.plus.provider.api.UmsAdminService;
 import com.xjm.myshop.plus.provider.domain.UmsAdmin;
 import com.xjm.myshop.plus.provider.mapper.UmsAdminMapper;
@@ -41,6 +42,7 @@ public class UmsAdminServiceImpl implements UmsAdminService {
     }
 
     @Override
+    @SentinelResource(value = "getByUsername", fallback = "getByUsernameFallback")
     public UmsAdmin get(String username) {
         Example example = new Example(UmsAdmin.class);
         example.createCriteria().andEqualTo("username", username);
