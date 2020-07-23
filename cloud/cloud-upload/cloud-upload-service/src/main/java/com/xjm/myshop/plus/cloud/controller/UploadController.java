@@ -28,10 +28,10 @@ import java.util.UUID;
 @RestController
 @RequestMapping(value = "upload")
 public class UploadController {
-    private static final String ENDPOINT = "oss-cn-shenzhen.aliyuncs.com";
-    private static final String ACCESS_KEY_ID = "LTAI4Fmey9a9fYi8mg4ASPpe";
-    private static final String ACCESS_KEY_SECRET = "TUYKIGHyBfv7G7RdQVHlxLb04ZWadF";
-    private static final String BUCKET_NAME = "xjm-bucket";
+    private static final String ENDPOINT = "x";
+    private static final String ACCESS_KEY_ID = "x";
+    private static final String ACCESS_KEY_SECRET = "x";
+    private static final String BUCKET_NAME = "x";
     /**
      * 文件上传
      *
