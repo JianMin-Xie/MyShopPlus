@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0ee5f60-a1c2-421c-9966-4843953ca3eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2-service/business-oauth2-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/business-oauth2-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2-service/src/main/java/com/xjm/myshop/plus/business/configure/AuthorizationServerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/main/java/com/xjm/myshop/plus/business/configure/AuthorizationServerConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-oauth2-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business-oauth2-service/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business-reg-service/src/main/java/com/xjm/myshop/plus/business/controller/EchoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/business.iml" beforeDir="false" afterPath="$PROJECT_DIR$/business/business.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/cloud-upload-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud/cloud-upload/cloud-upload-service/cloud-upload-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commons/commons-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/commons/commons-utils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/src/main/java/com/xjm/myshop/plus/provider/api/EchoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-api/target/classes/com/xjm/myshop/plus/provider/api/EchoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/src/main/java/com/xjm/myshop/plus/provider/service/EchoServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/ums-admin-provider-service/target/classes/com/xjm/myshop/plus/provider/service/EchoServiceImpl.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +45,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="H:\workspace\github\MyShopPlus\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
       <facet id="business-oauth2-service/invalid/JRebel" />
@@ -82,11 +62,6 @@
         <option name="mavenHome" value="D:/development_tools/apache-maven-3.6.1" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1YhBpOYNqReEXMk9RXsvzCJ3Pdt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -94,7 +69,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -103,6 +77,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowAnt.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -266,29 +241,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <option name="contentProportion" value="0.2156105" />
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -335,6 +287,8 @@
       <workItem from="1585313177796" duration="179000" />
       <workItem from="1585313365695" duration="2053000" />
       <workItem from="1587166951252" duration="122000" />
+      <workItem from="1595235384796" duration="1651000" />
+      <workItem from="1596612708167" duration="993000" />
     </task>
     <task id="LOCAL-00001" summary="用户注册服务">
       <created>1583385396154</created>
@@ -413,24 +367,30 @@
       <option name="project" value="LOCAL" />
       <updated>1584352136023</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="整合到github">
+      <created>1595235807446</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1595235807446</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="用户注册服务" />
@@ -445,9 +405,14 @@
     <MESSAGE value="管理后台-个人信息-头像上传" />
     <MESSAGE value="修改项目目录结构+实现Feign客户端熔断+修改nacos地址" />
     <MESSAGE value="服务限流-Dubbo Sentinel" />
-    <option name="LAST_COMMIT_MESSAGE" value="服务限流-Dubbo Sentinel" />
+    <MESSAGE value="整合到github" />
+    <option name="LAST_COMMIT_MESSAGE" value="整合到github" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="141" y="0" key="CommitChangelistDialog2" timestamp="1595235680266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595235680266" />
     <state x="119" y="55" width="1149" height="610" maximized="true" key="DiffContextDialog" timestamp="1587167074692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -456,6 +421,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595235522268" />
+    <state x="558" y="254" width="273" height="219" key="Github.ShareDialog" timestamp="1595235900940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="558" y="254" width="273" height="219" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1595235900940" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1595235508316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
